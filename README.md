@@ -1,2 +1,3 @@
 # merge-conflits
-coucou
+REMOTE
+
